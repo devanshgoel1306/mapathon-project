@@ -6,7 +6,6 @@ Land Use Land Cover Analysis of Mandi, Himachal Pradesh <br><br>
 Quantum Geographic Information System (QGIS) <br><br>
 <b>LULC Map Used</b><br>
 2005, 2011, 2015<br><br>
-<b>Useful Insights</b><br>
 
 
 
